@@ -1,0 +1,12 @@
+.\obj\i2c_eeprom.o: Source\util\I2C_Eeprom.c
+.\obj\i2c_eeprom.o: .\Source\header\I2c_eeprom.h
+.\obj\i2c_eeprom.o: .\Source\header\Custmodel.h
+.\obj\i2c_eeprom.o: C:\Keil\ARM\RV31\Inc\stdio.h
+.\obj\i2c_eeprom.o: .\Source\header\stm32f4xx.h
+.\obj\i2c_eeprom.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\obj\i2c_eeprom.o: C:\Keil\ARM\RV31\Inc\stdint.h
+.\obj\i2c_eeprom.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\obj\i2c_eeprom.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\obj\i2c_eeprom.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\obj\i2c_eeprom.o: C:\Keil\ARM\Inc\ST\STM32F4xx\system_stm32f4xx.h
+.\obj\i2c_eeprom.o: .\Source\header\I2CDef.h

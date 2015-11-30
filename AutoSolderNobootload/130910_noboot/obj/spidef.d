@@ -1,0 +1,14 @@
+.\obj\spidef.o: Source\Driver\spidef.c
+.\obj\spidef.o: .\Source\header\spidef.h
+.\obj\spidef.o: .\Source\header\custmodel.h
+.\obj\spidef.o: C:\Keil\ARM\RV31\Inc\stdio.h
+.\obj\spidef.o: .\Source\header\stm32f4xx.h
+.\obj\spidef.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\obj\spidef.o: C:\Keil\ARM\RV31\Inc\stdint.h
+.\obj\spidef.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\obj\spidef.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\obj\spidef.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\obj\spidef.o: C:\Keil\ARM\Inc\ST\STM32F4xx\system_stm32f4xx.h
+.\obj\spidef.o: .\Source\header\gpiodef.h
+.\obj\spidef.o: .\Source\header\nvimdef.h
+.\obj\spidef.o: .\Source\header\util.h

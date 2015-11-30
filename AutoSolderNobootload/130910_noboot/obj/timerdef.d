@@ -1,0 +1,14 @@
+.\obj\timerdef.o: Source\Driver\timerdef.c
+.\obj\timerdef.o: .\Source\header\custmodel.h
+.\obj\timerdef.o: C:\Keil\ARM\RV31\Inc\stdio.h
+.\obj\timerdef.o: .\Source\header\stm32f4xx.h
+.\obj\timerdef.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\obj\timerdef.o: C:\Keil\ARM\RV31\Inc\stdint.h
+.\obj\timerdef.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\obj\timerdef.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\obj\timerdef.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\obj\timerdef.o: C:\Keil\ARM\Inc\ST\STM32F4xx\system_stm32f4xx.h
+.\obj\timerdef.o: .\Source\header\timerdef.h
+.\obj\timerdef.o: .\Source\header\schedule.h
+.\obj\timerdef.o: .\Source\header\nvimdef.h
+.\obj\timerdef.o: .\Source\header\gpiodef.h

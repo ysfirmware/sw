@@ -1,0 +1,14 @@
+.\obj\max31855.o: Source\process\MAX31855.c
+.\obj\max31855.o: C:\Keil\ARM\RV31\Inc\string.h
+.\obj\max31855.o: C:\Keil\ARM\RV31\Inc\stdio.h
+.\obj\max31855.o: .\Source\header\max31855.h
+.\obj\max31855.o: .\Source\header\custmodel.h
+.\obj\max31855.o: .\Source\header\stm32f4xx.h
+.\obj\max31855.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\obj\max31855.o: C:\Keil\ARM\RV31\Inc\stdint.h
+.\obj\max31855.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\obj\max31855.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\obj\max31855.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\obj\max31855.o: C:\Keil\ARM\Inc\ST\STM32F4xx\system_stm32f4xx.h
+.\obj\max31855.o: .\Source\header\spidef.h
+.\obj\max31855.o: .\Source\header\process.h

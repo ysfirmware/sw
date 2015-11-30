@@ -1,0 +1,7 @@
+---- Meas Matches (6 in 4 files) ----
+Custmodel.h (source\header):  float Meas;
+MAX31855.c (source\process):	v->Meas = ReadThermocouple;
+MAX31855.c (source\process):		if (v->Set < v->Meas)
+Process.c (source\process):  err = v->Set - v->Meas;
+Process.c (source\process):	if ( v->Meas < v->Set)
+Schedule.c (source\process):	printf ("T=[%f] V=%d=, i=%d-[%d,%d,%d]--[%f][%f],, %d\n" ,  ReadThermocouple,MonAdcArry[0] , MonAdcArry[1],Duty.Duty_Count , Duty.Duty_Period , Duty.Duty_Ratio, v->Set , v->Meas,isheatflag);

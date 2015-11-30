@@ -1,0 +1,4 @@
+--cpu Cortex-M4.fp ".\obj\startup_stm32f4xx.o" ".\obj\main.o" ".\obj\systemcontrol.o" ".\obj\i2c_eeprom.o" ".\obj\uartproc.o" ".\obj\util.o" ".\obj\modbus_comm.o" ".\obj\crc.o" ".\obj\adcdef.o" ".\obj\dmadef.o" ".\obj\gpiodef.o" ".\obj\i2cdef.o" ".\obj\nvimdef.o" ".\obj\spidef.o" ".\obj\timerdef.o" ".\obj\uartdef.o" ".\obj\systemset.o" ".\obj\process.o" ".\obj\schedule.o" ".\obj\serial_flash.o" ".\obj\heatproc.o" ".\obj\max31855.o" --strict --scatter ".\obj\AutoSolderController.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\listing\AutoSolderController.map" -o .\obj\AutoSolderController.axf

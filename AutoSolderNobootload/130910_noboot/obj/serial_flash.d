@@ -1,0 +1,16 @@
+.\obj\serial_flash.o: Source\process\serial_flash.c
+.\obj\serial_flash.o: C:\Keil\ARM\RV31\Inc\string.h
+.\obj\serial_flash.o: C:\Keil\ARM\RV31\Inc\stdio.h
+.\obj\serial_flash.o: .\Source\header\serial_flash.h
+.\obj\serial_flash.o: .\Source\header\custmodel.h
+.\obj\serial_flash.o: .\Source\header\stm32f4xx.h
+.\obj\serial_flash.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\obj\serial_flash.o: C:\Keil\ARM\RV31\Inc\stdint.h
+.\obj\serial_flash.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\obj\serial_flash.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\obj\serial_flash.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\obj\serial_flash.o: C:\Keil\ARM\Inc\ST\STM32F4xx\system_stm32f4xx.h
+.\obj\serial_flash.o: .\Source\header\gpiodef.h
+.\obj\serial_flash.o: .\Source\header\util.h
+.\obj\serial_flash.o: .\Source\header\spidef.h
+.\obj\serial_flash.o: .\Source\header\uartproc.h

@@ -1,0 +1,11 @@
+.\obj\crc.o: Source\util\crc.c
+.\obj\crc.o: .\Source\header\crc.h
+.\obj\crc.o: .\Source\header\custmodel.h
+.\obj\crc.o: C:\Keil\ARM\RV31\Inc\stdio.h
+.\obj\crc.o: .\Source\header\stm32f4xx.h
+.\obj\crc.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\obj\crc.o: C:\Keil\ARM\RV31\Inc\stdint.h
+.\obj\crc.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\obj\crc.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\obj\crc.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\obj\crc.o: C:\Keil\ARM\Inc\ST\STM32F4xx\system_stm32f4xx.h

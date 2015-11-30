@@ -1,0 +1,40 @@
+*** Creating Trace Output File '.\obj\AutoSolderController.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\obj\startup_stm32f4xx.o"'
+### List of Objects: adding '".\obj\main.o"'
+### List of Objects: adding '".\obj\systemcontrol.o"'
+### List of Objects: adding '".\obj\i2c_eeprom.o"'
+### List of Objects: adding '".\obj\uartproc.o"'
+### List of Objects: adding '".\obj\util.o"'
+### List of Objects: adding '".\obj\modbus_comm.o"'
+### List of Objects: adding '".\obj\crc.o"'
+### List of Objects: adding '".\obj\adcdef.o"'
+### List of Objects: adding '".\obj\dmadef.o"'
+### List of Objects: adding '".\obj\gpiodef.o"'
+### List of Objects: adding '".\obj\i2cdef.o"'
+### List of Objects: adding '".\obj\nvimdef.o"'
+### List of Objects: adding '".\obj\spidef.o"'
+### List of Objects: adding '".\obj\timerdef.o"'
+### List of Objects: adding '".\obj\uartdef.o"'
+### List of Objects: adding '".\obj\systemset.o"'
+### List of Objects: adding '".\obj\process.o"'
+### List of Objects: adding '".\obj\schedule.o"'
+### List of Objects: adding '".\obj\serial_flash.o"'
+### List of Objects: adding '".\obj\heatproc.o"'
+### List of Objects: adding '".\obj\max31855.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M4.fp ".\obj\startup_stm32f4xx.o" ".\obj\main.o" ".\obj\systemcontrol.o" ".\obj\i2c_eeprom.o" ".\obj\uartproc.o" ".\obj\util.o" ".\obj\modbus_comm.o" ".\obj\crc.o" ".\obj\adcdef.o" ".\obj\dmadef.o" ".\obj\gpiodef.o" ".\obj\i2cdef.o" ".\obj\nvimdef.o" ".\obj\spidef.o" ".\obj\timerdef.o" ".\obj\uartdef.o" ".\obj\systemset.o" ".\obj\process.o" ".\obj\schedule.o" ".\obj\serial_flash.o" ".\obj\heatproc.o" ".\obj\max31855.o" --strict --scatter ".\obj\AutoSolderController.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\listing\AutoSolderController.map" -o .\obj\AutoSolderController.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\obj\AutoSolderController.axf'
+### ADS-LD Command File: '.\obj\AutoSolderController.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\obj\AutoSolderController.lnp', Handle=0x000001F0
+### Writing '.lnp' file
+### ADS-LD Command file '.\obj\AutoSolderController.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
