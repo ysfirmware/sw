@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://www.silabs.com/products/wireless/bluetooth/bluetooth-smart-modules/Pages/bled112-bluetooth-smart-dongle.aspx
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://www.silabs.com/products/wireless/bluetooth/bluetooth-smart-modules/Pages/bled112-bluetooth-smart-dongle.aspx
+IDList=
+IconFile=https://www.silabs.com/Style%20Library/silabs.ico
+IconIndex=1

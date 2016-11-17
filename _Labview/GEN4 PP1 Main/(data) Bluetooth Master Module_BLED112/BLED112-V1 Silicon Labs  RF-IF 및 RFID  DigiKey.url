@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://www.digikey.kr/product-detail/ko/silicon-labs/BLED112-V1/1446-1030-ND/4245505
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.digikey.kr/product-detail/ko/silicon-labs/BLED112-V1/1446-1030-ND/4245505
+IDList=
+IconFile=http://www.digikey.kr/favicon.ico
+IconIndex=1
