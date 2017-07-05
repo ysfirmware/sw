@@ -1,0 +1,30 @@
+Changed the sign imput into the Control logic. Allow the user to define a constant response velocity in the support file (>0) 
+or use the PID controller for the response (<0)
+
+Changed logic to allow the user to start the test from different positions not only from two inches. Added  a value of 500 to signify
+that the load test was taking place.
+  
+Added a condion for the global variable RxTx  in the change DUT VI. Changes to (true) before the channel change and then back to (false) after the channel
+is changed. Allows the transceiver to change channel.
+
+Changed steps of the loading condition. Moved the program DUT routine to execute after the load accuracy test routine.
+
+No stoping between the loading test and load accuracy test
+
+Height that mark10 moves between load test and load accuracy is reduced to 10% of the 2 inches that it moved previously
+
+Start Channel Initialized to 5. Ensures that transeiver channel will return to the start channel at the end of each test.
+
+Can read and create xlsm files
+
+Updates pages that are being programmed
+
+Gives option to retry device programing
+
+Target Channel and Operating Channel are initialized via config files
+
+Target Channel is no longer enabled to the user
+
+Displays what the operator chose during programming retry
+
+Updates tranceiver channel indicator through globals

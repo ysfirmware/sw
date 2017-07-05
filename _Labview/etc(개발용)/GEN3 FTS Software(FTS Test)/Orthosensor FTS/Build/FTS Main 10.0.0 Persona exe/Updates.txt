@@ -1,0 +1,7 @@
+Persona 10.0.0
+
+Changed location where cal factors are stored in the EPROM
+GUI displays cal factors for both 10mm and 16mm shim in engineering pannel
+Added in the GUI a message that prompts the operator to insert 10mm shim before starting the calibration test
+
+Indexed the cal factors correctly from EPROM data
